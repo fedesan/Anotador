@@ -1,0 +1,37 @@
+li a {
+  border: none;
+}
+
+.spaced div {
+  margin-top: 10px;
+}
+
+.entry div {
+  text-align: left;
+}
+
+.entry div>p {
+  display: inline-block;
+  border-radius: 8px;
+  border: 1px solid #eee;
+  padding: 6px 10px;
+  margin:10px 0 0 0;
+}
+
+.entry button {
+  margin-top:10px;
+}
+
+.entry button>p {
+  margin:0;
+}
+.entry button {
+  font-weight: bold;
+  width: 100%;
+  height: auto;
+  padding: 6px 10px;
+}
+
+.entry img {
+  width: 100%;
+}
